@@ -9,11 +9,11 @@ instalar as dependências necessárias.
 ### `yarn start`
 
 Executa o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
 A página será recarregada quando você fizer alterações.
 
 
 ### `yarn build`
 
-Cria o aplicativo para produção na pasta `build`.\
+Cria o aplicativo para produção na pasta `build`.
